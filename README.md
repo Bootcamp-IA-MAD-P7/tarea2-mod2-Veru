@@ -232,4 +232,3 @@ La validacion cruzada en machine learning es una técnica esencial en Machine Le
 - https://estudyando.com/analisis-de-residuos-proceso-y-ejemplos/
 - https://estudyando.com/evaluacion-de-modelos-de-ia-overfitting-y-metricas/
 - Comparacion r2 con test IA gpt5-mini
-- 
